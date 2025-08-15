@@ -1,0 +1,12 @@
+pandas
+streamlit
+sqlalchemy
+matplotlib
+plotly
+python-dateutil
+tensorflow
+seaborn
+numpy
+flask
+scikit-learn
+sqlite3
